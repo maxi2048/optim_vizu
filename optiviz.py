@@ -192,5 +192,5 @@ Anleitung = {"""
    optiviz.compare(f, bounds, x0=[0, 0])
 """}
 
-def help():
+def get_help():
     print(Anleitung)

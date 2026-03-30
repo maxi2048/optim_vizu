@@ -1,5 +1,5 @@
 import numpy as np
-from base import BaseOptimizer, OptimizationResult
+from .base import BaseOptimizer, OptimizationResult
 
 
 class NelderMead(BaseOptimizer):

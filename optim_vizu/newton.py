@@ -1,4 +1,4 @@
-from base import BaseOptimizer
+from .base import BaseOptimizer
 import numpy as np
 
 
